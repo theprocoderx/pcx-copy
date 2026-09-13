@@ -1,0 +1,14 @@
+12:25:58 
+ENOENT: no such file or directory, open 'C:\Users\user\Desktop\web-dev\NodeJS\Secton-4\21-WRITING_TO_A_FILE_USING_NODEJS\moneyyy.png' 
+Error: ENOENT: no such file or directory, open 'C:\Users\user\Desktop\web-dev\NodeJS\Secton-4\21-WRITING_TO_A_FILE_USING_NODEJS\moneyyy.png'
+    at async open (node:internal/fs/promises:697:25)
+    at async readFile (node:internal/fs/promises:1348:14)
+    at async file:///C:/Users/user/Desktop/web-dev/NodeJS/Secton-4/21-WRITING_TO_A_FILE_USING_NODEJS/app.js:4:25
+
+12:26:03 
+ENOENT: no such file or directory, open 'C:\Users\user\Desktop\web-dev\NodeJS\Secton-4\21-WRITING_TO_A_FILE_USING_NODEJS\moneyyy.png' 
+Error: ENOENT: no such file or directory, open 'C:\Users\user\Desktop\web-dev\NodeJS\Secton-4\21-WRITING_TO_A_FILE_USING_NODEJS\moneyyy.png'
+    at async open (node:internal/fs/promises:697:25)
+    at async readFile (node:internal/fs/promises:1348:14)
+    at async file:///C:/Users/user/Desktop/web-dev/NodeJS/Secton-4/21-WRITING_TO_A_FILE_USING_NODEJS/app.js:4:25
+

@@ -1,0 +1,31 @@
+{
+  "name": "@procoderx/pcx-copy",
+  "version": "1.0.0",
+  "description": "A lightweight Node.js CLI utility for copying files from one location to another.",
+  "type": "module",
+  "bin": {
+    "pcx-copy": "./bin/pcx-copy.js"
+  },
+  "files": [
+    "bin",
+    "src",
+    "README.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "copy",
+    "copy-file",
+    "file-copy",
+    "copy-cli",
+    "nodejs-cli",
+    "cli-tool"
+  ],
+  "author": {
+    "name": "ProCoderX (Magan Singh)",
+    "url": "https://procoderx.com"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}
