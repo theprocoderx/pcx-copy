@@ -1,4 +1,29 @@
-.money.png
-.Error.log
-.file1.text
-.buffer.png
+# Screenshots and images
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+
+# Logs
+*.log
+
+# Demo / text files
+*.txt
+*.text
+
+# Development files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Test / coverage output
+coverage/
