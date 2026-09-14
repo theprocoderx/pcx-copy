@@ -169,11 +169,11 @@ npx @procoderx/pcx-copy ./money.png ./buffer.png
 
 ### npx Usage
 
-![Using @procoderx/pcx-copy with npx](./screenshots/npx-usage.png)
+![Using @procoderx/pcx-copy with npx](https://raw.githubusercontent.com/theprocoderx/pcx-copy/main/screenshots/npx-usage.png)
 
 ### Global Installation
 
-![Installing and using @procoderx/pcx-copy globally](./screenshots/global-installation.png)
+![Installing and using @procoderx/pcx-copy globally](https://raw.githubusercontent.com/theprocoderx/pcx-copy/main/screenshots/global-installation.png)
 
 ---
 
